@@ -15,5 +15,6 @@ Git
 --> [git status] tells you what are all the pending changes
 --> You can combine the git add step and the git commit step
 --> [git commit -am "{comments}"] here -am stands for all the files that have been changed
+--> you can also make changes form the webpage and save it, like someone else has pushed the changes to this repo.
 
 
